@@ -13,4 +13,4 @@ Please make sure to checkout the dart package developed by Me and [Fawaz Hussain
 ## UPDATES/TASKS TO BE DONE
 
 - [ ] live score from live T20I, ODI and Test Matches.
-- [ ] Cricket match predictions
+- [ ] Cricket match predictions.
