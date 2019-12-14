@@ -4,7 +4,7 @@
 A Cricket website crawler
 
 ### About 
-A web crawler made using scrapy to get the details of cricketers (15 from every team) from [cricinfo](https://www.espncricinfo.com/)
+A web crawler made using scrapy to get the details of cricketers (15 from every team) from [cricinfo](https://www.espncricinfo.com/).
 
 ## Other Repos
 Please make sure to checkout the dart package developed by Me and [Fawaz Hussain](https://github.com/fawazhussain)
