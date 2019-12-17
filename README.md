@@ -1,7 +1,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 # Scrapy_Cricket
-A Cricket website crawler.
+A Cricket website crawler
 
 ### About 
 A web crawler made using scrapy to get the details of cricketers (15 from every team) from [cricinfo](https://www.espncricinfo.com/).
