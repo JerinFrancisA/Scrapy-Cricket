@@ -14,5 +14,6 @@ Please make sure to checkout the dart package developed by Me and [Fawaz Hussain
 
 - [ ] live score from live T20I, ODI and Test Matches.
 - [ ] Cricket match predictions
+- [X] Cricket match predictions
 
 SICNARF ARAS
